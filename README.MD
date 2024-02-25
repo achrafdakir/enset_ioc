@@ -21,3 +21,5 @@ Création de l'interface <strong>IMetier</strong> avec une méthode calcul et im
 Application Context :
 <img src="pictures/applicationContext.png">
 <img src="pictures/versionxml.png">
+<h4>En utilisant le Framework Spring: version Annotations</h4>
+<img src="pictures/versionAnnot.png">
